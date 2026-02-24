@@ -39,25 +39,7 @@ Nøgleprincip: Funktioner modtager state som parameter i stedet for at eje den
 
 ---
 
-## Sådan kører du spillet
 
-1. Åbn `OOP/OOP.html` i en browser for OOP-versionen
-2. Åbn `FP/fp.html` i en browser for FP-versionen
-
-Ingen installation eller server kræves - bare åbn HTML-filen direkte i browseren.
-
----
-
-## Funktioner
-
-- ✅ To spillere på samme computer (hotseat)
-- ✅ Viser hvems tur det er
-- ✅ Detekterer vinder (vandret, lodret, diagonal)
-- ✅ Detekterer uafgjort
-- ✅ Genstart-knap
-- ✅ Identisk adfærd i begge versioner
-
----
 
 ## Hvad jeg har lært
 
